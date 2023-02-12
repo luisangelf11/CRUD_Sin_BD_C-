@@ -1,0 +1,10 @@
+C:\Users\Luis Angel\source\repos\CRUDSinBD\bin\Debug\CRUDSinBD.exe.config
+C:\Users\Luis Angel\source\repos\CRUDSinBD\bin\Debug\CRUDSinBD.exe
+C:\Users\Luis Angel\source\repos\CRUDSinBD\bin\Debug\CRUDSinBD.pdb
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.csprojAssemblyReference.cache
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.Form1.resources
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.Properties.Resources.resources
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.csproj.GenerateResource.cache
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.csproj.CoreCompileInputs.cache
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.exe
+C:\Users\Luis Angel\source\repos\CRUDSinBD\obj\Debug\CRUDSinBD.pdb
